@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Rocketman",
+      "live": "https://edcarcruz.github.io/rocketman/",
+      "git": "https://github.com/edcarcruz/rocketman",
+      "image": "https://raw.githubusercontent.com/edcarcruz/rocketman/main/img/screenshot1.png"
+    },
+    {
+      "name": "Film Fanatics",
+      "live": "https://filmfanatics.onrender.com/",
+      "git": "https://github.com/edcarcruz/filmfanatics",
+      "image": "https://i.imgur.com/Oy84VUw.png"
+    },
+    {
+        "name": "Dr. Health",
+        "live": "https://drhealthfrontend.netlify.app/",
+        "git": "https://github.com/edcarcruz/DrHealthBackEnd",
+        "image": "https://i.imgur.com/JD3VCoU.png"
+    }
+  ]
